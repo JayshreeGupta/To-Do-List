@@ -1,5 +1,5 @@
 # To-Do List
-I ahve created this website using React.js, Java-Script, css and Html.
+I have created this website using React.js, Java-Script, css and Html.
 
 #Feature
 *Add Items
